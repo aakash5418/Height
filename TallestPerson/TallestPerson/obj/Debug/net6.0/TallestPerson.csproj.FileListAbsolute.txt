@@ -1,0 +1,15 @@
+C:\Phase2\TallestPerson\TallestPerson\bin\Debug\net6.0\TallestPerson.exe
+C:\Phase2\TallestPerson\TallestPerson\bin\Debug\net6.0\TallestPerson.deps.json
+C:\Phase2\TallestPerson\TallestPerson\bin\Debug\net6.0\TallestPerson.runtimeconfig.json
+C:\Phase2\TallestPerson\TallestPerson\bin\Debug\net6.0\TallestPerson.dll
+C:\Phase2\TallestPerson\TallestPerson\bin\Debug\net6.0\TallestPerson.pdb
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\TallestPerson.csproj.AssemblyReference.cache
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\TallestPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\TallestPerson.AssemblyInfoInputs.cache
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\TallestPerson.AssemblyInfo.cs
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\TallestPerson.csproj.CoreCompileInputs.cache
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\TallestPerson.dll
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\refint\TallestPerson.dll
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\TallestPerson.pdb
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\TallestPerson.genruntimeconfig.cache
+C:\Phase2\TallestPerson\TallestPerson\obj\Debug\net6.0\ref\TallestPerson.dll

@@ -1,0 +1,15 @@
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ShortestPerson.csproj.AssemblyReference.cache
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ShortestPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ShortestPerson.AssemblyInfoInputs.cache
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ShortestPerson.AssemblyInfo.cs
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ShortestPerson.csproj.CoreCompileInputs.cache
+C:\Phase2\ShortestPerson\ShortestPerson\bin\Debug\net6.0\ShortestPerson.exe
+C:\Phase2\ShortestPerson\ShortestPerson\bin\Debug\net6.0\ShortestPerson.deps.json
+C:\Phase2\ShortestPerson\ShortestPerson\bin\Debug\net6.0\ShortestPerson.runtimeconfig.json
+C:\Phase2\ShortestPerson\ShortestPerson\bin\Debug\net6.0\ShortestPerson.dll
+C:\Phase2\ShortestPerson\ShortestPerson\bin\Debug\net6.0\ShortestPerson.pdb
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ShortestPerson.dll
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\refint\ShortestPerson.dll
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ShortestPerson.pdb
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ShortestPerson.genruntimeconfig.cache
+C:\Phase2\ShortestPerson\ShortestPerson\obj\Debug\net6.0\ref\ShortestPerson.dll

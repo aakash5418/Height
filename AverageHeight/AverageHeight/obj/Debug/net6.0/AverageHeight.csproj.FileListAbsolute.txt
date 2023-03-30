@@ -1,0 +1,15 @@
+C:\Phase2\AverageHeight\AverageHeight\bin\Debug\net6.0\AverageHeight.exe
+C:\Phase2\AverageHeight\AverageHeight\bin\Debug\net6.0\AverageHeight.deps.json
+C:\Phase2\AverageHeight\AverageHeight\bin\Debug\net6.0\AverageHeight.runtimeconfig.json
+C:\Phase2\AverageHeight\AverageHeight\bin\Debug\net6.0\AverageHeight.dll
+C:\Phase2\AverageHeight\AverageHeight\bin\Debug\net6.0\AverageHeight.pdb
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\AverageHeight.csproj.AssemblyReference.cache
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\AverageHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\AverageHeight.AssemblyInfoInputs.cache
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\AverageHeight.AssemblyInfo.cs
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\AverageHeight.csproj.CoreCompileInputs.cache
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\AverageHeight.dll
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\refint\AverageHeight.dll
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\AverageHeight.pdb
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\AverageHeight.genruntimeconfig.cache
+C:\Phase2\AverageHeight\AverageHeight\obj\Debug\net6.0\ref\AverageHeight.dll
